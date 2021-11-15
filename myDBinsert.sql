@@ -63,28 +63,29 @@ insert into F21_S003_7_Person_email(fname, lname, email) values ('Ceclio', 'hurr
 insert into F21_S003_7_Person_email(fname, lname, email) values ('Allyn', 'Leftwitch', 'aleftwichg@hp.com');
 insert into F21_S003_7_Person_email(fname, lname, email) values ('Theodosia', 'Dinse', 'tdinseh@hc360.com');
 insert into F21_S003_7_Person_email(fname, lname, email) values ('Lefty', 'Broader', 'loaderi@washton.edu');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Clarinda' ,'Binge' , '12-FEB-1988', 'jyoliver@hotmail.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Clarinda' ,'Binge', 'jyoliver@hotmail.com');
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Helli' ,'Hamil' , '27-JAN-1989', 'michiel@me.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Bert' ,'Jagg' , '31-AUG-1983', 'noahb@mac.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Nev' ,'Jenkin' , '28-SEP-1980', 'jimmichie@aol.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Tev' ,'Issac' , '13-JAN-1987', '2caidaperl@comcast.nets');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Teja' ,'Niblo' , '22-FEB-1983', 'tandersbr@verizon.net');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Marj' ,'Slow' , '26-APR-1981', 'cparis@me.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Doll' ,'Fast' , '30-JUL-1994', 'avalon@mac.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Uins' ,'Soden' , '12-JUN-1992', 'gknauss@sbcglobal.net');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Doule' ,'Jankin' , '01-MAY-1996', 'massignjumbo@msn.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Gol' ,'Bree' , '12-APR-1991', 'catchsuspicious@live.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Gal' ,'Ladel' , '17-JUL-1995', 'awkwardliz@att.net');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Tonny' ,'Pird' , '11-FEB-1980', 'horrifiedtrudi@mac.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('jon' ,'Karus' , '29-SEP-1989', 'leavegrowing@me.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Glow' ,'Davio' , '02-APR-1984', 'stunnedjonty@sbcglobal.net');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Flow' ,'Artois' , '11-JUN-1994', 'janeyconsiderate@verizon.net');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Donnie' ,'Bower' , '13-AUG-2000', 'nikkiconsiderate@yahoo.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Any' ,'Dur' , '01-APR-1996', 'leavegrowing@me.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Ceaser' ,'Chotty' , '07-NOV-1992', 'leavegrowing@me.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Bran' ,'Gipp' , '09-NOC-1983', 'barragehonorable@live.com');
-Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Joby' ,'Kell' , '14-OCT-1982', 'reteachdirect@yahoo.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Helli' ,'Hamil' , 'michiel@me.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Bert' ,'Jagg' , 'noahb@mac.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Nev' ,'Jenkin', 'jimmichie@aol.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Tev' ,'Issac' , '2caidaperl@comcast.nets');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Teja' ,'Niblo' , 'tandersbr@verizon.net');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Marj' ,'Slow' , 'cparis@me.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Doll' ,'Fast' , 'avalon@mac.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Uins' ,'Soden' , 'gknauss@sbcglobal.net');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Doule' ,'Jankin' , 'massignjumbo@msn.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Gol' ,'Bree' , 'catchsuspicious@live.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Gal' ,'Ladel' , 'awkwardliz@att.net');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Tonny' ,'Pird' , 'horrifiedtrudi@mac.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('jon' ,'Karus' , 'leavegrowing@me.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Glow' ,'Davio' , 'stunnedjonty@sbcglobal.net');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Flow' ,'Artois' , 'janeyconsiderate@verizon.net');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Donnie' ,'Bower' , 'nikkiconsiderate@yahoo.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Any' ,'Dur' , 'leavegrowing@me.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Ceaser' ,'Chotty' , 'leavegrowing@me.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Bran' ,'Gipp', 'barragehonorable@live.com');
+Insert into F21_S003_7_Person_email(fname, lname,  email) values ('Joby' ,'Kell' , 'reteachdirect@yahoo.com');
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- PERSON _PHONENUMBER---------------------
 insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Emmye', 'Derkes', '3599704313');
