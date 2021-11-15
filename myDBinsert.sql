@@ -142,7 +142,7 @@ Insert into F21_S003_7_Customer(fname, lname, customerid) values('Guy', 'Elings'
 Insert into F21_S003_7_Customer(fname, lname, customerid) values('Bert', 'Jagg', 507);
 Insert into F21_S003_7_Customer(fname, lname, customerid) values('Nev', 'Jenkin', 508);
 Insert into F21_S003_7_Customer(fname, lname, customerid) values('Tev', 'Issac', 509);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Teja', 'Niblo, 510);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Teja', 'Niblo', 510);
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- DEPARTMENT---------------------
