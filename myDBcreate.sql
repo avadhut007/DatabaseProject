@@ -15,7 +15,7 @@ primary key(branchid));
 create table F21_S003_7_Dishes ( dishid int not null,  dishname varchar(30) not null , receipe varchar(1500) not null, creationdate date,
 primary key(dishid));
 
-create table F21_S003_7_Person_email ( fname varchar(20) not null ,lname varchar(20) not null, email varchar(20) not null ,
+create table F21_S003_7_Person_email ( fname varchar(20) not null ,lname varchar(20) not null, email varchar(50) not null ,
 primary key(fname, lname, email),
 foreign key(fname,lname) references F21_S003_7_Person(fname,lname) on delete cascade);
 
