@@ -23,7 +23,7 @@ create table F21_S003_7_Person_Phonenumber ( fname varchar(20) not null ,lname v
 primary key(fname, lname, phonenumber),
 foreign key(fname,lname) references F21_S003_7_Person(fname,lname) on delete cascade);
 
-create table F21_S003_7_Employee ( empid int not null, ssn int not null,fname varchar(20) not null ,lname varchar(20) not null ,sex char(1),  role varchar(20) not null,
+create table F21_S003_7_Employee ( empid int not null, ssn varchar(12) not null,fname varchar(20) not null ,lname varchar(20) not null ,sex char(1),  role varchar(20) not null,
 salary int not null, branchid int not null, managerid int not null, deptid int not null,
 primary key(empid),
 foreign key(deptid) references F21_S003_7_Department (deptid) on delete cascade,
