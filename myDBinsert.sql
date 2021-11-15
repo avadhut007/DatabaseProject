@@ -109,26 +109,26 @@ insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Th
 insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Lefty', 'Broader', '3599504303');
 Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Clarinda' ,'Binge' ,'9124362195');
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Helli' ,'Hamil' , '27JAN1989', '9393294853');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Bert' ,'Jagg' , '31AUG1983', '2034796926');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Nev' ,'Jenkin' , '28SEP1980', '2143071484');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Tev' ,'Issac' , '13JAN1987', '8569358942');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Teja' ,'Niblo' , '22FEB1983', '5122220282');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Marj' ,'Slow' , '26APR1981', '6179390744');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Doll' ,'Fast' , '30JUL1994', '7134893015');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Uins' ,'Soden' , '12JUN1992', '6469771006');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Doule' ,'Jankin' , '01MAY1996', '9402059690');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Gol' ,'Bree' , '12APR1991', '2098930751');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Gal' ,'Ladel' , '17JUL1995', '4349829338');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Tonny' ,'Pird' , '11FEB1980', '6193652819');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('jon' ,'Karus' , '29SEP1989', '7704268358');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Glow' ,'Davio' , '02APR1984', '9204830033');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Flow' ,'Artois' , '11JUN1994', '6145150492');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Donnie' ,'Bower' , '13AUG2000', '8187754983');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Any' ,'Dur' , '01APR1996', '5802776746');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Ceaser' ,'Chotty' , '07NOV1992', '9186685985');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Bran' ,'Gipp' , '09NOC1983', '3193573235');
-Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Joby' ,'Kell' , '14OCT1982', '6089850121');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Helli' ,'Hamil' , '9393294853');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Bert' ,'Jagg', '2034796926');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Nev' ,'Jenkin' , '2143071484');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Tev' ,'Issac' , '8569358942');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Teja' ,'Niblo' , '5122220282');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Marj' ,'Slow' , '6179390744');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Doll' ,'Fast' , '7134893015');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Uins' ,'Soden' , '6469771006');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Doule' ,'Jankin' , '9402059690');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Gol' ,'Bree', '2098930751');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Gal' ,'Ladel' , '4349829338');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Tonny' ,'Pird' , '6193652819');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('jon' ,'Karus' , '7704268358');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Glow' ,'Davio' , '9204830033');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Flow' ,'Artois' , '6145150492');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Donnie' ,'Bower' , '8187754983');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Any' ,'Dur' , '5802776746');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Ceaser' ,'Chotty' , '9186685985');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Bran' ,'Gipp' , '3193573235');
+Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Joby' ,'Kell' , '6089850121');
 
 ---------------------------------------------------------------------------------------------------------
 ----- Customer ---------------------
