@@ -180,7 +180,7 @@ Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) value
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- RESTAURANT BRANCH---------------------
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (10, 'Chicago', '5181 Morning Center', 60, 12 );
-Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (20, 'Miami', '139 1st Terrace', 40, 10),
+Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (20, 'Miami', '139 1st Terrace', 40, 10);
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (30, 'Dallas', '136 Delaware Street', 80,20);
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
