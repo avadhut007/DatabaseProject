@@ -276,41 +276,24 @@ insert into F21_S003_7_Dishes_Ingredients (dishid, ingredients) values ('1155','
 Lime slices, optional');
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------ EMPLOYEE---------------------
+----- EMPLOYEE-----------------
+Insert into  F21_S003_7_Employee (fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Emmye', 'Derkes', 1, '382-33-0763', 'F', 'Managerial staff', 12424, 10, 256, 101);
+Insert into  F21_S003_7_Employee(fname, lname , empid, ssn, sex, salary, branchid, managerid, deptid) values('Emmye', 'Mc Pake', 2, '382-33-0763', F, 10835, 10, 256, 102);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Emmye', 'Hanks', 3, '382-33-0763', F, 19144, 10, 256, 103);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Rebecka', 'Stichel', 4, '382-33-0763', F, 17889, 10, 256, 104);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763', F, 3737, 10, 256, 105);
 
-Insert into  F21_S003_7_Employee (fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) 
-values('Emmye', 'Derkes', 1, 382-33-0763, 'F', 'Managerial staff', 12424.14, 10, 256, 101);
-Insert into  F21_S003_7_Employee(fname, lname , empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Emmye', 'Mc Pake', 2, 382-33-0763, F, 10835.37, 10, 256, 102);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Emmye', 'Hanks'', 3, 382-33-0763, F, $19144.06, 10, 256, 103);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Rebecka', 'Stichel', 4, 382-33-0763, F, $17889.84, 10, 256, 104);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Levey', 'Marion', 5, 382-33-0763, F, $3737.99, 10, 256, 105);
+Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', F, 1691, 20, 256, 201);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763', F,6330, 20, 256, 201);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Inez', 'Boyda', 8, '382-33-0763', F, 17495, 20, 256, 201);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Gabbie', 'Fentem', 9, '382-33-0763', F, 17495, 20, 256, 201);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Dniren', 'Pettengell', 10, '382-33-0763', F, 17495, 20, 256, 201);
 
-Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Guy', 'Elings', 6, 382-33-0763, F, $1691.77, 20, 256, 201);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Katherine', 'Bliven', 7, 382-33-0763, F,$6330.83, 20, 256, 201);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Inez', 'Boyda', 8, 382-33-0763, F, $17495.56, 20, 256, 201);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Gabbie', 'Fentem', 9, 382-33-0763, F, $17495.56, 20, 256, 201);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Dniren', 'Pettengell', 10, 382-33-0763, F, $17495.56, 20, 256, 201);
-
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Layen', 'Warre', 11, 382-33-0763, F, $17495.56, 30, 256, 301);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Anni', 'Gandey', 12, 382-33-0763, F, $17495.56, 30, 256, 302);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Fredric', 'pleuman, 13, 382-33-0763, F, $17495.56, 30, 256, 303);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('jarib', 'Jowitt', 14, 382-33-0763, F, $17495.56, 30, 256, 304);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) 
-values('Benton', 'Lusher', 15, 382-33-0763, F, $17495.56, 30, 256, 305);
-
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Layen', 'Warre', 11, '382-33-0763', F, 17495, 30, 256, 301);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Anni', 'Gandey', 12, '382-33-0763', F, 17495, 30, 256, 302);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Fredric', 'pleuman', 13, '382-33-0763', F, 17495, 30, 256, 303);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('jarib', 'Jowitt', 14, '382-33-0763', F, 17495, 30, 256, 304);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, salary, branchid, managerid, deptid) values('Benton', 'Lusher', 15, '382-33-0763', F, 17495, 30, 256, 305);
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- EXPENSES ---------------------
 Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(1,10,5000,'Gas Cost','31-DEC-2020'); 
