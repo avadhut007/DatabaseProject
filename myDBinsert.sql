@@ -177,17 +177,6 @@ Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) value
 --Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (405  ,’Accounting staff’ ,  ‘Boston’ , 205  );
 --Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (406  ,’HR staff’ ,  ‘Boston’ , 206  );
 
-/*Department names: 
-Managerial staff
-Waiter/cleaning staff
-Administrator staff
-Kitchen staff
-Accounting staff
-HR staff
-Training staff
-Marketing Staff
-*/
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- RESTAURANT BRANCH---------------------
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (10, 'Chicago', '5181 Morning Center', 60, 12 );
