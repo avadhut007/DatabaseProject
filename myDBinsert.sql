@@ -374,24 +374,24 @@ insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdat
 
 ---------------------------------------------------------------------------------------------------------
 ----- Transactions ---------------------
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'cash',   2001)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (504, 20, 4, 'cash',   2002)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (508, 20, 4, 'card',   2003)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (510, 10, 4, 'card',   2004)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (501, 30, 4, 'cash',   2005)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'card',   2006)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (505, 20, 4, 'cash',   2007)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (504, 20, 4, 'cash',   2008)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (506, 30, 4, 'cash',   2009)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (507, 10, 4, 'card',   2010)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (509, 20, 4, 'card',   2011)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (507, 30, 4, 'cash',   2012)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (506, 10, 4, 'card',   2013)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (510, 10, 4, 'cash',   2014)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (508, 10, 4, 'card',   2015)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'cash',   2016)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (501, 30, 4, 'card',   2017)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (509, 20, 4, 'card',   2018)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 30, 4, 'card',   2019)
-insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (503, 10, 4, 'card',   2020)
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'cash',   2001);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (504, 20, 4, 'cash',   2002);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (508, 20, 4, 'card',   2003);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (510, 10, 4, 'card',   2004);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (501, 30, 4, 'cash',   2005);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'card',   2006);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (505, 20, 4, 'cash',   2007);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (504, 20, 4, 'cash',   2008);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (506, 30, 4, 'cash',   2009);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (507, 10, 4, 'card',   2010);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (509, 20, 4, 'card',   2011);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (507, 30, 4, 'cash',   2012);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (506, 10, 4, 'card',   2013);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (510, 10, 4, 'cash',   2014);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (508, 10, 4, 'card',   2015);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 10, 4, 'cash',   2016);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (501, 30, 4, 'card',   2017);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (509, 20, 4, 'card',   2018);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 30, 4, 'card',   2019);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (503, 10, 4, 'card',   2020);
 
