@@ -280,7 +280,7 @@ Lime slices, optional');
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Emmye', 'Derkes', 1, '382-33-0763', 'F', 'Managerial staff', 12424, 10, 256, 101);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Alick', 'Mc Pake', 2, '382-44-0763', 'F', 'Cleaning staff', 10835, 10, 256, 102);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Rebecka', 'Hanks', 3, '382-33-0763', 'F', 'Managerial staff',19144, 10, 256, 103);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Rebecka', 'Stichel', 4, '382-33-0763', 'Kitchen staff', 'F', 17889, 10, 256, 104);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Dorey', 'Stichel', 4, '382-33-0763', 'Kitchen staff', 'F', 17889, 10, 256, 104);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','Accounting staff','F', 3737, 10, 256, 105);
 
 Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', 'F','Waiter', 1691, 20, 256, 201);
