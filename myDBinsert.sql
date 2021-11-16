@@ -330,22 +330,22 @@ Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) valu
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- RestaurantBranch_Dishes ---------------------
 Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1111);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1112);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1113);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1114);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1115);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1122);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1133);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1144);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(10, 1155);
 
 Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1111);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1112);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1113);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1114);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1115);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1122);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1133);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1144);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(20, 1155);
 
 Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1111);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1112);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1113);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1114);
-Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1115);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1122);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1133);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1144);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1155);
 
 ---------------------------------------------------------------------------------------------------------
 ----- ORDERS ---------------------
