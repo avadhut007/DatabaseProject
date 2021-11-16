@@ -280,8 +280,8 @@ Lime slices, optional');
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Emmye', 'Derkes', 1, '382-33-0763', 'F', 'Managerial staff', 12424, 10, 256, 102);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Alick', 'Mc Pake', 2, '382-44-0763', 'F', 'Managerial staff', 10835, 20, 256, 202);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Rebecka', 'Hanks', 3, '382-33-0763', 'F', 'Managerial staff',19144, 30, 256, 302);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Dorey', 'Stichel', 4, '382-33-0763', 'Kitchen staff', 'F', 17889, 10, 256, 103);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','Kitchen staff','F', 3737, 20, 256, 203);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Dorey', 'Stichel', 4, '382-33-0763','F','Kitchen staff', 17889, 10, 256, 103);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','F', 'Kitchen staff','F', 3737, 20, 256, 203);
 
 Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', 'F','Kitchen staff', 1691, 30, 256, 303);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763','F','Cleaning staff',6330, 10, 256, 101);
@@ -352,8 +352,8 @@ Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 115
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(501, 1111, 10, 1001, '10-SEP-2020', 'Thursday', '17:40'  );
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(502, 1122, 12, 1002, '10-SEP-2020', 'Thursday',  '17:40' );
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(503, 1133, 8, 1003, '16-SEP-2020', 'Wednesday',  '17:40' );
-insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(504, 1144, 25, 1004, 16-SEP-2020, 'Wednesday',  '17:40' );
-insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(505, 1155, 15, 1005, 17-SEP-2020, 'Thursday',  '17:40' );
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(504, 1144, 25, 1004, '16-SEP-2020', 'Wednesday',  '17:40' );
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(505, 1155, 15, 1005, '17-SEP-2020', 'Thursday',  '17:40' );
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(506, 1122, 12, 1006, '18-SEP-2020', 'Friday',  '17:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(507, 1144, 25, 1007, '18-SEP-2020', 'Friday',  '18:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(508, 1155, 15, 1008, '18-SEP-2020', 'Friday',  '18:40');
