@@ -284,7 +284,7 @@ Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, br
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','Kitchen staff','F', 3737, 20, 256, 203);
 
 Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', 'F','Kitchen staff', 1691, 30, 256, 303);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763','Cleaning staff', 'F',6330, 10, 256, 101);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763','F','Cleaning staff',6330, 10, 256, 101);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Inez', 'Boyda', 8, '382-33-0763', 'F','Cleaning staff', 17495, 20, 256, 201);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Gabbie', 'Fentem', 9, '382-33-0763', 'F','Cleaning staff', 17495, 30, 256, 301);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Dniren', 'Pettengell', 10, '382-33-0763', 'F','Accounting staff', 17495, 10, 256, 104);
