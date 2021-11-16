@@ -11,5 +11,15 @@ order by revenue desc) rev
 on r.branchid = rev.branchid
 fetch first 1 row only;
 
+-- Business Goal 3 --
+-- Which Dish makes more Revenue 
 
+select d.dishname,
+(select sum(o.price)
+from F21_S003_7_Orders o
+where d.dishid = o.dishid
+group by o.dishid ) as revenue
+from F21_S003_7_Dishes d 
+order by revenue desc 
+fetch first 1 row only;
 
