@@ -134,15 +134,25 @@ Insert into F21_S003_7_Person_phonenumber(fname, lname, phonenumber) values ('Jo
 ----- Customer ---------------------
 
 Insert into F21_S003_7_Customer(fname, lname, customerid) values('Helli', 'Hamil', 501);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Alick', 'Mc Pake', 502);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Rebecka', 'Hanks', 503);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Dorey', 'Stichel', 504);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Levey', 'Marion', 505);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Guy', 'Elings', 506);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Bert', 'Jagg', 507);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Nev', 'Jenkin', 508);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Tev', 'Issac', 509);
-Insert into F21_S003_7_Customer(fname, lname, customerid) values('Teja', 'Niblo', 510);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Bert', 'Jagg' , 502);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Nev', 'Jenkin', 503);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Tev', 'Issac', 504);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Teja', 'Niblo', 505);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Marj', 'Slow', 506);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Doll', 'Fast', 507);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Uins', 'Soden', 508);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Doule', 'Jankin', 509);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Gol', 'Bree', 510);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Gal', 'Ladel', 511);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Tonny', 'Pird', 512);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('jon', 'Karus', 513);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Glow', 'Davio', 514);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Flow', 'Artois', 515);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Donnie', 'Bower', 516);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Any', 'Dur', 517);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Ceaser', 'Chotty', 518);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Bran', 'Gipp', 519);
+Insert into F21_S003_7_Customer(fname, lname, customerid) values('Joby', 'Kell', 520);
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- DEPARTMENT---------------------
