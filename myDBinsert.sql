@@ -180,19 +180,18 @@ Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) value
 Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values(305, 'HR staff', 'Dallas', 15);
 
 --Boston: 40
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (401  ,’Administrator’ , ‘Boston’ , 201  );
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (402  ,’Cleaning staff’ , ‘Boston’ , 202  );
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (403  ,’Managerial staff’ ,  ‘Boston’ , 203  );
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (404  ,’Kitchen staff’ ,  ‘Boston’ , 204  );
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (405  ,’Accounting staff’ ,  ‘Boston’ , 205  );
---Insert into F21_S003_7_Department(deptit, deptname, branchname, managerid) values (406  ,’HR staff’ ,  ‘Boston’ , 206  );
+Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values (401  ,'Cleaning staff' , 'Boston' , 16);
+Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values (402  ,'Managerial staff' ,  'Boston' , 17);
+Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values (403  ,'Kitchen staff' ,  'Boston' , 18);
+Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values (404  ,'Accounting staff' ,  'Boston' , 19);
+Insert into F21_S003_7_Department(deptid, deptname, branchname, managerid) values (405  ,'HR staff' ,  'Boston' , 20);
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- RESTAURANT BRANCH---------------------
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (10, 'Chicago', '5181 Morning Center', 60, 12 );
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (20, 'Miami', '139 1st Terrace', 40, 10);
 Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (30, 'Dallas', '136 Delaware Street', 80,20);
-
+Insert into F21_S003_7_RestaurantBranch ( branchid, name, location, noofchair, tableid) values (40, 'Boston', '112 Jane Corner', 60,15);
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- Dishes---------------------
 insert into F21_S003_7_Dishes(dishid, dishname, receipe, creationdate) values ('1111', 'Blueberry Pie', 
@@ -305,6 +304,12 @@ Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, br
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('jarib', 'Jowitt', 14, '382-33-0763', 'F','HR staff', 135, 30, 256, 205);
 Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Benton', 'Lusher', 15, '382-33-0763', 'F','HR staff', 141, 30, 256, 305);
 
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Ceclio' ,'hurry' , 16, '382-33-0763', 'M','Managerial staff', 149, 40, 256, 401);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Allyn' ,'Leftwitch', 17,'382-33-0763', 'F','Kitchen staff', 54, 40, 256, 402);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Theodosia' ,'Dinse', 18,'382-33-0763', 'F','Accounting staff', 124, 40, 256, 403);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Lefty' ,'Broader', 19, '382-33-0763', 'M','Cleaning staff', 59, 40, 256, 405);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Clarinda' ,'Binge', 20, '382-33-0763', 'F','HR staff', 120, 40, 256, 404);
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- EXPENSES ---------------------
 Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(1,10,50,'Gas Cost','31-DEC-2020'); 
@@ -357,6 +362,11 @@ Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 113
 Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1144);
 Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(30, 1155);
 
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(40, 1111);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(40, 1122);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(40, 1133);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(40, 1144);
+Insert into F21_S003_7_RestaurantBranch_Dishes (branchid, dishid) values(40, 1155);
 ---------------------------------------------------------------------------------------------------------
 ----- ORDERS ---------------------
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(501, 1111, 10, 1001, '10-SEP-2020', 'Thursday', '17:40'  );
