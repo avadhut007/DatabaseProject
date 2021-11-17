@@ -287,23 +287,23 @@ Lime slices, optional');
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- EMPLOYEE-----------------
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Emmye', 'Derkes', 1, '382-33-0763', 'F', 'Managerial staff', 12424, 10, 256, 102);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Alick', 'Mc Pake', 2, '382-44-0763', 'F', 'Managerial staff', 10835, 20, 256, 202);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Rebecka', 'Hanks', 3, '382-33-0763', 'F', 'Managerial staff',19144, 30, 256, 302);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Dorey', 'Stichel', 4, '382-33-0763','F','Kitchen staff', 17889, 10, 256, 103);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','F', 'Kitchen staff', 3737, 20, 256, 203);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Emmye', 'Derkes', 1, '382-33-0763', 'F', 'Managerial staff', 124, 10, 256, 102);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Alick', 'Mc Pake', 2, '382-44-0763', 'F', 'Managerial staff', 178, 20, 256, 202);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Rebecka', 'Hanks', 3, '382-33-0763', 'F', 'Managerial staff',191, 30, 256, 302);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Dorey', 'Stichel', 4, '382-33-0763','F','Kitchen staff', 78, 10, 256, 103);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Levey', 'Marion', 5, '382-33-0763','F', 'Kitchen staff', 77, 20, 256, 203);
 
-Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', 'F','Kitchen staff', 1691, 30, 256, 303);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763','F','Cleaning staff',6330, 10, 256, 101);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Inez', 'Boyda', 8, '382-33-0763', 'F','Cleaning staff', 17495, 20, 256, 201);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Gabbie', 'Fentem', 9, '382-33-0763', 'F','Cleaning staff', 17495, 30, 256, 301);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Dniren', 'Pettengell', 10, '382-33-0763', 'F','Accounting staff', 17495, 10, 256, 104);
+Insert into  F21_S003_7_Employee(fname,lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Guy', 'Elings', 6, '382-33-0763', 'F','Kitchen staff', 169, 30, 256, 303);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Katherine', 'Bliven', 7, '382-33-0763','F','Cleaning staff',63, 10, 256, 101);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Inez', 'Boyda', 8, '382-33-0763', 'F','Cleaning staff', 67, 20, 256, 201);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Gabbie', 'Fentem', 9, '382-33-0763', 'F','Cleaning staff', 49, 30, 256, 301);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role,salary, branchid, managerid, deptid) values('Dniren', 'Pettengell', 10, '382-33-0763', 'F','Accounting staff', 140, 10, 256, 104);
 
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Layen', 'Warre', 11, '382-33-0763', 'F','Accounting staff', 17495, 20, 256, 204);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Anni', 'Gandey', 12, '382-33-0763', 'F','Accounting staff', 17495, 30, 256, 304);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Fredric', 'pleuman', 13, '382-33-0763', 'F','HR staff', 17495, 30, 256, 105);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('jarib', 'Jowitt', 14, '382-33-0763', 'F','HR staff', 17495, 30, 256, 205);
-Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Benton', 'Lusher', 15, '382-33-0763', 'F','HR staff', 17495, 30, 256, 305);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Layen', 'Warre', 11, '382-33-0763', 'F','Accounting staff', 174, 20, 256, 204);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Anni', 'Gandey', 12, '382-33-0763', 'F','Accounting staff', 164, 30, 256, 304);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Fredric', 'pleuman', 13, '382-33-0763', 'F','HR staff', 124, 30, 256, 105);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('jarib', 'Jowitt', 14, '382-33-0763', 'F','HR staff', 135, 30, 256, 205);
+Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, branchid, managerid, deptid) values('Benton', 'Lusher', 15, '382-33-0763', 'F','HR staff', 141, 30, 256, 305);
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- EXPENSES ---------------------
