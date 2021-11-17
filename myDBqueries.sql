@@ -90,3 +90,18 @@ from F21_S003_7_RestaurantBranch r
 order by total_expense desc 
 fetch first 1 row only;
 
+
+-- Business Goal 8 --
+-- Show running total_sales by date
+
+select orderdate , price as price_per_order , sum(price) over (order by orderdate) as Total_sales 
+from F21_S003_7_Orders;
+
+
+-- Business Goal 9 --
+-- Count Number of Employees in Each branch
+
+select r.name as branch_name, e.branchid, count(e.empid) over (partition by e.branchid) as no_of_employees 
+from F21_S003_7_Employee e inner join F21_S003_7_RestaurantBranch r 
+on r.branchid = e.branchid;
+
