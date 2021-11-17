@@ -307,35 +307,35 @@ Insert into  F21_S003_7_Employee(fname, lname, empid, ssn, sex, role, salary, br
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- EXPENSES ---------------------
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(1,10,5000,'Gas Cost','31-DEC-2020'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(2,10,10000,'Food Cost','31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(3,10,1000,'Water Cost','31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(4,10,400,'Utilities Cost', '31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(1,10,50,'Gas Cost','31-DEC-2020'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(2,10,100,'Food Cost','31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(3,10,10,'Water Cost','31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(4,10,4,'Utilities Cost', '31-DEC-2020');
 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(5,20,4800,'Gas Cost','31-DEC-2020'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(6,20,9000,'Food Cost','31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(7,20,800,'Water Cost','31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(8,20,400,'Utilities Cost', '31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(5,20,48,'Gas Cost','31-DEC-2020'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(6,20,90,'Food Cost','31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(7,20,8,'Water Cost','31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(8,20,4,'Utilities Cost', '31-DEC-2020');
 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(9,30,4500,'Gas Cost','31-DEC-2020'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(10,30,8000,'Food Cost', '31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(11,30,700,'Water Cost', '31-DEC-2020');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(12,30,400,'Utilities Cost', '31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(9,30,45,'Gas Cost','31-DEC-2020'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(10,30,80,'Food Cost', '31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(11,30,7,'Water Cost', '31-DEC-2020');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(12,30,4,'Utilities Cost', '31-DEC-2020');
 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(13,10,5000,'Gas Cost','31-DEC-2019'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(14,10,10000,'Food Cost','31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(15,10,1000,'Water Cost','31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(16,10,400,'Utilities Cost', '31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(13,10,50,'Gas Cost','31-DEC-2019'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(14,10,100,'Food Cost','31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(15,10,10,'Water Cost','31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(16,10,4,'Utilities Cost', '31-DEC-2019');
 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(17,20,4800,'Gas Cost','31-DEC-2019'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(18,20,9000,'Food Cost','31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(19,20,800,'Water Cost','31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(20,20,400,'Utilities Cost', '31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(17,20,48,'Gas Cost','31-DEC-2019'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(18,20,90,'Food Cost','31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(19,20,8,'Water Cost','31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(20,20,4,'Utilities Cost', '31-DEC-2019');
 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(21,30,4500,'Gas Cost','31-DEC-2019'); 
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(22,30,8000,'Food Cost', '31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(23,30,700,'Water Cost', '31-DEC-2019');
-Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(24,30,400,'Utilities Cost', '31-DEC-2019'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(21,30,45,'Gas Cost','31-DEC-2019'); 
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(22,30,80,'Food Cost', '31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(23,30,7,'Water Cost', '31-DEC-2019');
+Insert into F21_S003_7_Expenses ( expid, branchid, cost, name, expensedate) values(24,30,4,'Utilities Cost', '31-DEC-2019'); 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----- RestaurantBranch_Dishes ---------------------
