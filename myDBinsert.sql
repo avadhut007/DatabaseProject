@@ -28,7 +28,7 @@ Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Teja' ,'Niblo
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Marj' ,'Slow' , '26-APR-1999', '96 Old Shore Crossing Houston');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Doll' ,'Fast' , '30-JUL-1996', '9771 Caliangt Street Miami');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Uins' ,'Soden' , '12-JUN-1999', '515 Helena Terrace Chicago');
-Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Doule' ,'Jankin' , '01-MAY-1997', '08889 Superior Lane Washingto
+Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Doule' ,'Jankin' , '01-MAY-1997', '08889 Superior Lane Washingto');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Gol' ,'Bree' , '12-APR-1998', '29072 Paget Circle Phoneix');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Gal' ,'Ladel' , '17-JUL-1990', '3254 Bashford Plaza Boston');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Tonny' ,'Pird' , '11-FEB-1988', '181 Elgar Trail Detroit');
@@ -36,7 +36,7 @@ Insert into F21_S003_7_Person(fname, lname, dob, address) values ('jon' ,'Karus'
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Glow' ,'Davio' , '02-APR-1993', '8833 Marquette Lane Seattle');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Flow' ,'Artois' , '11-JUN-1990', '8118 Myrtle Road Boston');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Donnie' ,'Bower' , '13-AUG-2087', '914 Lawn Avenue Dallas');
-Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Any' ,'Dur' , '01-APR-1991, '0684 Hallows Terrace Hoston');
+Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Any' ,'Dur' , '01-APR-1991', '0684 Hallows Terrace Hoston');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Ceaser' ,'Chotty' , '07-NOV-1990', '4 Northridge Junction Washington');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Bran' ,'Gipp' , '09-NOC-1986', '594 Haas Pass Phoenix');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Joby' ,'Kell' , '14-OCT-1989', '92252 Bayside Road Boston');
