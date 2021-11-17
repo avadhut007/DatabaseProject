@@ -38,7 +38,7 @@ Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Flow' ,'Artoi
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Donnie' ,'Bower' , '13-AUG-2087', '914 Lawn Avenue Dallas');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Any' ,'Dur' , '01-APR-1991', '0684 Hallows Terrace Hoston');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Ceaser' ,'Chotty' , '07-NOV-1990', '4 Northridge Junction Washington');
-Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Bran' ,'Gipp' , '09-NOC-1986', '594 Haas Pass Phoenix');
+Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Bran' ,'Gipp' , '09-NOv-1986', '594 Haas Pass Phoenix');
 Insert into F21_S003_7_Person(fname, lname, dob, address) values ('Joby' ,'Kell' , '14-OCT-1989', '92252 Bayside Road Boston');
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
