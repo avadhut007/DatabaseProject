@@ -390,7 +390,7 @@ insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdat
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(510, 1133, 8, 1020, '29-SEP-2020', 'Tuesday',  '17:40');
 
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(511, 1133, 8, 1021, '30-SEP-2020', 'Wednesday', '17:40');
-insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(511, 1133, 8, 1022, '01-OCT-2020', 'Thursday',  '17:40');
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(515, 1133, 8, 1022, '01-OCT-2020', 'Thursday',  '17:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(512, 1133, 8, 1023, '02-OCT-2020', 'Friday',  '16:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(513, 1133, 8, 1024, '05-OCT-2020', 'Monday',  '16:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(514, 1133, 8, 1025, '06-OCT-2020', 'Tuesday',  '19:40');
