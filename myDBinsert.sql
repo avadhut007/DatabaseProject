@@ -389,6 +389,11 @@ insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdat
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(501, 1133, 8, 1019, '29-SEP-2020', 'Tuesday',  '16:40');
 insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(510, 1133, 8, 1020, '29-SEP-2020', 'Tuesday',  '17:40');
 
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(511, 1133, 8, 1021, '30-SEP-2020', 'Wednesday', '17:40');
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(511, 1133, 8, 1022, '01-OCT-2020', 'Thursday',  '17:40');
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(512, 1133, 8, 1023, '02-OCT-2020', 'Friday',  '16:40');
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(513, 1133, 8, 1024, '05-OCT-2020', 'Monday',  '16:40');
+insert into F21_S003_7_Orders (customerid , dishid ,  price , orderid , orderdate, weekday, time) values(514, 1133, 8, 1025, '06-OCT-2020', 'Tuesday',  '19:40');
 
 
 
@@ -415,3 +420,8 @@ insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment
 insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (502, 30, 4, 'card',   2019);
 insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (503, 10, 4, 'card',   2020);
 
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (511, 40, 4, 'cash',   2021);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (512, 40, 4, 'card',   2022);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (513, 40, 4, 'cash',   2023);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (514, 40, 4, 'card',   2024);
+insert  into F21_S003_7_Transactions(customerid , branchid , tax , modeofpayment , transactionid) values (515, 40, 4, 'card',   2025);
