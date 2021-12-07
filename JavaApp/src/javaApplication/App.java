@@ -94,19 +94,6 @@ public class App extends JFrame {
 		contentPane.add(btnBusinessGoals);
 		
 		
-		
-		
-		/*
-		try {
-		System.out.println("Closing the connection");	
-		conn.close();
-		} catch (SQLException e) {
-
-            System.out.println("error when closing the connection");
-            System.exit(1);
-            e.printStackTrace();
-        } */
-		
 	}
 
 

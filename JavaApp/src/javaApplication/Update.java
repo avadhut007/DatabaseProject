@@ -60,6 +60,30 @@ public class Update extends JFrame {
 		btnBack.setBounds(744, 37, 167, 40);
 		contentPane.add(btnBack);
 		
+		JButton btnUpdateRestaurantBranch = new JButton("Update Restaurant Branch Name");
+		btnUpdateRestaurantBranch.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				UpdateBranch updatebranch = new UpdateBranch();
+				updatebranch.setVisible(true);
+				dispose();
+			}
+		});
+		btnUpdateRestaurantBranch.setFont(new Font("Tahoma", Font.BOLD, 11));
+		btnUpdateRestaurantBranch.setBounds(89, 168, 251, 40);
+		contentPane.add(btnUpdateRestaurantBranch);
+		
+		JButton btnUpdateEmployeeSalary = new JButton("Update Employee Salary");
+		btnUpdateEmployeeSalary.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				UpdateEmployee updateemployee = new UpdateEmployee();
+				updateemployee.setVisible(true);
+				dispose();
+				
+			}
+		});
+		btnUpdateEmployeeSalary.setFont(new Font("Tahoma", Font.BOLD, 11));
+		btnUpdateEmployeeSalary.setBounds(89, 270, 251, 40);
+		contentPane.add(btnUpdateEmployeeSalary);
+		
 	}
-
 }
