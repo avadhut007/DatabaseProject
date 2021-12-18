@@ -1,4 +1,4 @@
 # DBProj
 
-Restaurant Chain Management System
+Restaurant Chain Management System \n
 Technology: Java Swing
