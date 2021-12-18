@@ -1,2 +1,4 @@
 # DBProj
-#AT, GA, OG
+
+Restaurant Chain Management System
+Technology: Java Swing
